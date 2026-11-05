@@ -21,7 +21,7 @@ Denk aan AVG, Copyright, Licenties, Wettelijke impact, Maatschappelijke impact:
 Deze onderwerpen zijn tijdens deze sprint niet van toepassing, omdat ik mij vooral richt op onderzoek en documentatie.
 
 Begin- en einddatum van het project:  
-? november tot ? november
+5 november tot 12 november
 
 ## Leerdoelen
 - Onderzoeken hoe een Raspberry Pi werkt.
