@@ -38,7 +38,7 @@ Dit gaat over een FM transmitter die je bij de action kan kopen voor in je auto 
 Als ik alles kan instellen over hoe en wat zoals de FM transmitter op de rasberry dan kan ik dit binnen de regels maken en gebruiken als prive.
 
 Begin- en einddatum van het project
-2 november 2026 -> 25 Januari 2027
+5 november 2026 -> 25 Januari 2027
 
 ## Leerdoelen
 Welke leerdoelen kun je benoemen voor dit project
